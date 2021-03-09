@@ -1,4 +1,4 @@
-# BlueSnail
+# Blue Snail
 
 Blue Snail est une bibliothèque interactive pour les enfants. 
 
